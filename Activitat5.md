@@ -34,7 +34,21 @@ Per pugue conectarte al teu compte sense entra a l'aplicació en si haurem de en
 
 ![](LOCAL1.png) 
 
-Una vegada clicquem damunt haurem de introduir la seguent comanda "**dav://localhost/owncloud/remote.php/webdav**".
+Una vegada clicquem damunt haurem de introduir la seguent ruta "**dav://localhost/owncloud/remote.php/webdav**".
 
 ![](LOCAL2.png)
+
+Després d'introduir la ruta et apareixera a la pantalla per posar el usuari i la contrasenya i iniciar sessió. Hauras d'introduir l'usuari i la contrasenya que te he enviat a aquest correu.
+
+![](LOCAL2.1.png)
+
+Ara que ja has introduit la contrasenya i l'usuari correctament et apareixera una pantall com aquesta:
+
+![](LOCAL3.png)
+
+Finalment a la carpeta de "**Documents**" podras guarda els fitxers que tu vulgues sense la cecessitat d'entrar sempre a l'aplicació, també pots crear-te auna carpeta si vulgues i dins et guardes tota la informació que tu vulgues.
+
+![](LOCAL4.png)
+
+> ***Per si vols afegir algun fitxer o vols esborrar-ho lo que hauras de fer es molt fàcil, a l'hora d'afegir un fitxer pots arrosegar-ho directament o pots fer un copia i pegar de l'arxius, i per esborrar-ho pots fer un clic dret i selecionar "eliminar"***
 
