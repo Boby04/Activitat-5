@@ -24,6 +24,8 @@ Es demana fer servir llenguatge formal i adreçar-se a la persona a la que s'est
 
 Hola Mario, hem decidit implementar a la nostra empresa una nova eina de sistemes d'arxius anomenada Owncloud, a continuació et explicare com funciona aquesta aplicació i amb les teves dades que has de introduir a l'hora de iniciar sesio.
 
+*Usuari i contrasenya que necessitaràs per accedir:*
+
 ```
 Usuari: Mario
 
