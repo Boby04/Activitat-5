@@ -30,3 +30,11 @@ Usuari: Mario
 Contrasenya: 4Cbv76%
 ```
 
+Per pugue conectarte al teu compte sense entra a l'aplicació en si haurem de entra a una carpeta qualsevol i després en dirigirem a "**otras ubicaciones**" i baix a la dreta hi haura un text que ens dius "**conectar al servidor**".
+
+![](LOCAL1.png) 
+
+Una vegada clicquem damunt haurem de introduir la seguent comanda "**dav://localhost/owncloud/remote.php/webdav**".
+
+![](LOCAL2.png)
+
